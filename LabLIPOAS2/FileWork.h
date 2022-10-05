@@ -1,0 +1,4 @@
+
+namespace FileWork {
+	void FileInputFun();
+}
